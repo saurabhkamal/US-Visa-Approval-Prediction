@@ -27,6 +27,10 @@ conda activate visa
 pip install -r requirements.txt
 ```
 
+```bash
+python app.py
+```
+
 ## Workflow
 
 1. constant
